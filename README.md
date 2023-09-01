@@ -1,5 +1,5 @@
 # crude
-Turning **GO**RM **to** an **CRUD** API.
+Turning GORM to an **CRUD** API.
 
 ```sh
 go get github.com/mark-veres/crude
