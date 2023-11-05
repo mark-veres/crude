@@ -52,7 +52,7 @@ Updating is accomplished with the gorm [`(*DB)Save`](https://pkg.go.dev/gorm.io/
 ```sh
 curl -X POST -H "Content-Type: application/json" \
     -d '{"id": 0, "content": "the content was updated"}' \
-    http://localhost:80/.../{name}/updates
+    http://localhost:80/.../{name}/update
 ```
 
 ### `GET` /{name}/list
